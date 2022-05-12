@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coherent17&label=Profile%20views&color=0e75b6&style=flat" alt="coherent17" /> </p>
 
-
-<h3 align="left">Connect with me: mnb51817@gmail.com</h3>
 <p align="left">
 </p>
 
